@@ -3,7 +3,7 @@ import Button from "./Button";
 
 export default function SplitBillForm({ selectedFriend, onSplitBill }) {
   const [bill, setBill] = useState("");
-  const [paidByUser, setPaidByUser] = useState("");
+  const [paidByUser, setPaidByUser] = useState("0");
   const paidByFriend = bill ? bill - paidByUser : "";
   const [whoIsPaying, setWhoIsPaying] = useState("user");
 
