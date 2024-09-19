@@ -1,4 +1,5 @@
 # App UI View
+![SPLIT BILL](https://github.com/user-attachments/assets/4dcbcb26-695b-434f-ab9b-498c03cf958b)
 
 
 
